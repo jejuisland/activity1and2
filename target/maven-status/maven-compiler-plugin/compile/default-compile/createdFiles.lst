@@ -1,0 +1,5 @@
+com\fimc\hello\resource\GtgResource.class
+com\fimc\hello\ApplicationConfig.class
+com\fimc\hello\JerseyConfig.class
+com\fimc\hello\Application.class
+com\fimc\hello\resource\GtgResponse.class
